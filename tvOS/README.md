@@ -1,3 +1,34 @@
+1 - create-react-native-add
+2 - react-native build-ios
+
+
+##
+
+shit i may need later 
+
+Your URL is
+
+https://exp.host/@wdoody/doodtrivia
+
+17:11:36 [exp] Building...
+17:11:36 [exp] Build started, it may take a few minutes to complete.
+17:11:36 [exp] You can monitor the build at
+
+ https://expo.io/builds/fab30b80-2ddb-4f79-b012-a454ae472704
+
+|17:11:36 [exp] Waiting for build to complete. You can press Ctrl+C to exit.
+17:15:37 [exp] Successfully built standalone app: https://exp-shell-app-assets.s3-us-west-1.amazonaws.com/ios%2F%40wdoody%2Fdoodtrivia-b128aaca-dc7a-4311-b9a6-f545cf87498e-archive.ipa
+billdoody ~/WebstormProjects/doodtrivia/tvOS on master[+!]
+$ 
+
+
+
+##
+
+
+
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).

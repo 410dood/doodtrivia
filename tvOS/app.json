@@ -1,5 +1,14 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "doodtrivia",
+    "icon": "./images/hdwlogo.png",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.heavydoodyworks.doodtrivia"
+    },
+    "android": {
+      "package": "com.heavydoodyworks.doodtrivia"
+    }
   }
 }
