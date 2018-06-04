@@ -20,8 +20,10 @@
   },
   "dependencies": {
     "expo": "^27.0.1",
-    "react": "16.3.1",
+    "react": "^16.4.0",
     "react-native": "~0.55.2",
+    "react-navigation": "^2.1.0",
+    "reconnecting-websocket": "^4.0.0-rc5",
     "watchman": "^1.0.0"
   }
 }
