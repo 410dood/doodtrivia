@@ -1,11 +1,26 @@
-# DoodTrivia: AppleTV Trivia Game you play through your phone.
+# DoodTrivia
+AppleTV Trivia Game you play through your phone.
+##
 
 ## API Dependency Packages
 * [UUID](https://www.npmjs.com/package/uuid) - Simple, fast generation of RFC4122 UUIDS.
-
+* [lodash](https://www.npmjs.com/package/lodash) - The Lodash library exported as Node.js modules.
+* [he](https://www.npmjs.com/package/he) - "he" (for “HTML entities”) is a robust HTML entity encoder/decoder written in JavaScript             
+* [multer](https://www.npmjs.com/package/multer) - Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
+* [node-fetch](https://www.npmjs.com/package/node-fetch) - A light-weight module that brings window.fetch to Node.js
+* [dotenv](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env                 
+* [express](https://www.npmjs.com/package/express) - Fast, unopinionated, minimalist web framework for node.
+* [cookie-parser](https://www.npmjs.com/package/cookie-parser) - Parse Cookie header and populate req.cookies with an object keyed by the cookie names. Optionally you may enable signed cookie support by passing a secret string, which assigns req.secret so it may be used by other middleware.                                                     
+* [express-ws](https://www.npmjs.com/package/express-ws) - WebSocket endpoints for Express applications. Lets you define WebSocket endpoints like any other type of route, and applies regular Express middleware. The WebSocket support is implemented with the help of the ws library.
+* []() - 
+* []() - 
 
 ## tvOS Packages
 * [reconnecting-websocket](#https://github.com/joewalnes/reconnecting-websocket) : will automatically reconnect if the connection is dropped.
+* []() - 
+* []() - 
+* []() - 
+* []() - 
 
 
 

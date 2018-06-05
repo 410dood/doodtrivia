@@ -7,6 +7,7 @@ import { Provider } from 'react-redux';
 import { store } from './redux';
 import * as WebSocket from './websocket';
 
+import { AppNavigator } from './modules/app';
 
 class App extends Component {
 
