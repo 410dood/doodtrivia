@@ -1,3 +1,15 @@
+# DoodTrivia: AppleTV Trivia Game you play through your phone.
+
+## API Dependency Packages
+* [UUID](https://www.npmjs.com/package/uuid) - Simple, fast generation of RFC4122 UUIDS.
+
+
+## tvOS Packages
+* [reconnecting-websocket](#https://github.com/joewalnes/reconnecting-websocket) : will automatically reconnect if the connection is dropped.
+
+
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
